@@ -21,6 +21,14 @@ execution engine analyses the stir-version code searching for attack vectors tha
 exploited by a malicious actuator.​
         </td> 
     </tr>
+	   <tr>
+        <td>
+            <a href="https://tagsia.com/assessments/cyber-risk-assessment/" target="_blank">CyRA</a>
+        </td>
+        <td>
+            CyRA is a free, browser-only cyber risk self-assessment tool for maritime vessels, structured around the five NIST CSF phases and aligned to IACS UR E26. It generates a gap analysis showing which E26 requirements are met, partially met, or missing — no signup, no data leaves the browser.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
